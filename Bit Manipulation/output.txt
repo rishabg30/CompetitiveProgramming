@@ -1,0 +1,6 @@
+1
+Value of a: 7, Value of b: 5
+1
+Even number
+Bit is not set
+Number of countBits: 4
